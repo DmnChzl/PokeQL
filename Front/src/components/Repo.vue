@@ -3,7 +3,7 @@
     <h4>Sources</h4>
     <Item
       title="GitHub"
-      subTitle="MrDoomy/PokeQL"
+      subTitle="DmnChzl/PokeQL"
       :handleClick="goToRepository"
       faIcon="archive"
       leftColor="#424242"
@@ -19,7 +19,7 @@
 import { Component, Vue } from 'vue-property-decorator';
 import Item from './Item.vue';
 
-const GITHUB = 'https://github.com/mrdoomy/pokeql';
+const GITHUB = 'https://github.com/dmnchzl/pokeql';
 
 @Component({
   components: {

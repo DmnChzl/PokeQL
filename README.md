@@ -25,7 +25,7 @@ I made a **Pokédex** app (in French) based on my own progression in the **Poké
 Clone the project:
 
 ```
-git clone https://github.com/MrDoomy/PokeQL.git
+git clone https://github.com/DmnChzl/PokeQL.git
 ```
 
 ### Parts
@@ -36,8 +36,8 @@ git clone https://github.com/MrDoomy/PokeQL.git
 
 ## ScreenShots
 
-![Image](https://raw.githubusercontent.com/MrDoomy/PokeQL/master/ScreenShots/List.png)
-![Image](https://raw.githubusercontent.com/MrDoomy/PokeQL/master/ScreenShots/Detail.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/PokeQL/master/ScreenShots/List.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/PokeQL/master/ScreenShots/Detail.png)
 
 ## License
 
