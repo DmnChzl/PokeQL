@@ -1,6 +1,6 @@
 # PokeQL
 
-I made a **Pokédex** app (in French) based on my own progression in the **Pokémon** Go game, with this technologies:
+I made a **Pokédex** app (in French) based on my own progression in the **Pokémon** Go game, with these technologies:
 
 - **ExpressJS**: Fast, unopinionated, minimalist Web Framework for NodeJS
   - [http://expressjs.com/](http://expressjs.com/)
